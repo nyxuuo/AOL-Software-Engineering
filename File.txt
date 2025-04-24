@@ -1,0 +1,26 @@
+﻿Deskripsi AOL
+
+
+Berdasarkan data WHO, pada tahun 2019, 970 juta orang di dunia hidup dengan mental disorder, dengan yang paling umum adalah kecemasan dan depresi. Selain itu, berdasarkan data Institute for Health Metrics and Evaluation, sekitar 13.9% populasi di dunia menderita mental disorder pada tahun 2021. Selain itu, untuk meningkatkan minat pengguna untuk mempelajari pentingnya kesehatan mental, kami membuat suatu game berbasis visual novel. Dengan pendekatan ini, pengguna dapat merasakan pengalaman interaktif yang lebih mendalam melalui elemen cerita, karakter, dan visual yang menarik. Kehadiran elemen visual membantu menciptakan suasana yang lebih nyaman dan familiar. Nantinya, game ini akan dikembangkan dengan menggunakan Ren'py, dengan bantuan Figma dalam pembuatan mockup game.
+
+
+Fitur AOL
+
+
+Fitur-fitur dari aplikasi ini, yaitu:
+- Berinteraksi melalui game visual novel
+- Memilih opsi dialog untuk mendapatkan ending yang berbeda dari cerita yang diberikan
+- Menyimpan progress
+- Menyimpan ending yang sudah didapatkan
+- Merujuk ke website mental health
+- Load file yang sudah di save
+
+
+Team Member
+
+
+2702299075 - Aflaha Fathinah Fatahillah
+2702222541 - Jesslyn Abigail
+2702359710 - Puti Rania Faiza
+2702364931 - Putri Khairani Azzahra
+2702212156 - Virly Karaniyametta Arista
